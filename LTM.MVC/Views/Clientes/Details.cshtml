@@ -1,0 +1,51 @@
+﻿@model LTM.MVC.ViewModels.ClienteViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalhe Cliente</h2>
+
+<div>
+    <h4>ClienteViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SobreNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobreNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Idade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Idade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ativo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ativo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Atualizar", "Edit", new { id = Model.clienteId }) |
+    @Html.ActionLink("Voltar", "Index")
+
+</p>

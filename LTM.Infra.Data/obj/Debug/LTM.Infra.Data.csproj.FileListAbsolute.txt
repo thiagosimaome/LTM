@@ -1,0 +1,12 @@
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\bin\Debug\LTM.Infra.Data.dll.config
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\bin\Debug\LTM.Infra.Data.dll
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\bin\Debug\LTM.Infra.Data.pdb
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\bin\Debug\LTM.Domain.dll
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\bin\Debug\LTM.Domain.pdb
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\obj\Debug\LTM.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\obj\Debug\LTM.Infra.Data.dll
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Infra.Data\obj\Debug\LTM.Infra.Data.pdb

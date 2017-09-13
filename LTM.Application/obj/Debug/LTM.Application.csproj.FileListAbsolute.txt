@@ -1,0 +1,7 @@
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Application\bin\Debug\LTM.Application.dll
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Application\bin\Debug\LTM.Application.pdb
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Application\bin\Debug\LTM.Domain.dll
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Application\bin\Debug\LTM.Domain.pdb
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Application\obj\Debug\LTM.Application.csprojResolveAssemblyReference.cache
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Application\obj\Debug\LTM.Application.dll
+C:\Users\Thiag\Desktop\projetos\@Csharp\LTM\LTM.Application\obj\Debug\LTM.Application.pdb
