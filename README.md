@@ -20,7 +20,7 @@
   * git clone https://github.com/thiagosimaome/LTM.git
  
  # O que esse comando faz
-    * O comando git clone, vai o projeto do repositorio e criar uma pasta na sua maquina com o nome do projeto.
+    * O comando git clone, vai clonar o projeto do repositorio e criar uma pasta na sua maquina.
       
  # Como Executar o projeto
    * EU subi o projeto com todas as dependencias instaladas, so temos que configurar o banco de dados.
