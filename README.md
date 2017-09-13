@@ -7,7 +7,7 @@
    * O projeto foi estruturado em DDD (Domain Drive Design), focando nas boas praticas e nos padrões,
    para facilitar o desenvolvimento e posterior a manutenção do projeto.
    
- # Dependencias do projeto.
+ # Dependencias do projeto
    * EntityFramework 6.1.3
    * AutoMapper 3.2.1
    * Ninject.MVC5 3.2.1
@@ -15,13 +15,20 @@
  # Banco de Dados
   * SQL Server 2016 SP1 Express
    
-  # Como Executar o projeto.
-    * EU subi o projeto com todas as dependencias instaladas, so temos que configurar o banco de dados.
-    * Instale o "SQL Server 2016 SP1 Express", e reinicie a maquina.
-    * Abra a solution do projeto, e va até o "Package Maneger Console" do visual studio, 
+ # Baixando o projeto  
+  * Abra o terminal da sua maquina, e execute o seguinte comando
+  * git clone https://github.com/thiagosimaome/LTM.git
+ 
+ # O que esse comando faz
+    * O comando git clone, vai o projeto do repositorio e criar uma pasta na sua maquina com o nome do projeto.
+      
+ # Como Executar o projeto
+   * EU subi o projeto com todas as dependencias instaladas, so temos que configurar o banco de dados.
+   * Instale o "SQL Server 2016 SP1 Express", e reinicie a maquina.
+   * Abra a solution do projeto, e va até o "Package Maneger Console" do visual studio, 
       selecione o projeto "INfra.Data" e execute o comando "Update-Database -verbose -force"
       
-  #  O que esse comando Faz.
+ #  O que esse comando Faz
     * Update-Database -verbose -force 
         * O Entityframework tem um automatizador de scripts de banco de dados que chama Migration, 
            Quando executamos o comando  "Update-Database" no "Package Maneger Console" do visual studio,
